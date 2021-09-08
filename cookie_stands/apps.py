@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class CookieStandConfig(AppConfig):
-    name = 'cookie-stand'
+    name = 'cookie_stands'
